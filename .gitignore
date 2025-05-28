@@ -1,0 +1,14 @@
+# Ignore Python virtual environments
+face_backend/venv/
+
+# Ignore node_modules
+face-rag-client/node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+
+# Ignore environment variables
+.env
